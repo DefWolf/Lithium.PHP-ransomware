@@ -8,4 +8,4 @@
 7. Generates a python encryptor that collects information about the infected device and executes the powershell command
 8. Replaces the main page of the site (Deface)
 
-Python ransomware is still in development 0.5/10 =)
+Python ransomware is still in development. And he does not carry a serious threat.
