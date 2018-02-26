@@ -11,3 +11,4 @@
 Python ransomware is still in development. And he does not carry a serious threat.
 
 This is a test version of the encryptor.
+If he infected your files, then contact me: https://codeby.net/forum/threads/lithium-shifrovalschik-fajlov.62442/
