@@ -9,3 +9,5 @@
 8. Replaces the main page of the site (Deface)
 
 Python ransomware is still in development. And he does not carry a serious threat.
+
+This is a test version of the encryptor.
